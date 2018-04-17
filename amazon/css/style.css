@@ -1,0 +1,29 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/denisschule\/projects\/FSWD40-GIT-DAY06-CSS-DAY04-DS\/amazon\/css\/style\.sass}line{font-family:\000032}}
+* {
+  margin: 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/denisschule\/projects\/FSWD40-GIT-DAY06-CSS-DAY04-DS\/amazon\/css\/style\.sass}line{font-family:\000035}}
+#top-img {
+  background-color: white;
+  height: 55px;
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/denisschule\/projects\/FSWD40-GIT-DAY06-CSS-DAY04-DS\/amazon\/css\/style\.sass}line{font-family:\000039}}
+ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/denisschule\/projects\/FSWD40-GIT-DAY06-CSS-DAY04-DS\/amazon\/css\/style\.sass}line{font-family:\0000311}}
+  ul li {
+    list-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/denisschule\/projects\/FSWD40-GIT-DAY06-CSS-DAY04-DS\/amazon\/css\/style\.sass}line{font-family:\0000313}}
+  ul a {
+    text-styling: none;
+    color: #333333; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/denisschule\/projects\/FSWD40-GIT-DAY06-CSS-DAY04-DS\/amazon\/css\/style\.sass}line{font-family:\0000318}}
+header {
+  height: 150px; }
+
+/*# sourceMappingURL=style.css.map */
